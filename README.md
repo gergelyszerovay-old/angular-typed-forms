@@ -1,3 +1,7 @@
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/gergelyszerovay/angular-typed-forms)
+
+---
+
 # AngularTypedForms
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
